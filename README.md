@@ -1,0 +1,2 @@
+# Spectrum-Analyser
+Spectrum Analyser software was developed for obtaining the emission spectra from the measured spectrum (e. g. of a city). The main computational program was written in C, encapsulated in GUI in JAVA. Read in the article "Emission spectra of light-pollution sources determined from the light-scattering spectrometry of the night sky" how the software helps to identify the night sky pollution sources.

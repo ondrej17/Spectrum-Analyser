@@ -43,6 +43,19 @@ The results of calculation are stored in `kernel/results`. There are following f
 
 GUI was written in JAVA. See section RUN to start and use GUI.
 
+## Compilation of source code
+
+In `kernel` run commands:
+
+```
+gcc -Wall smog.c -o smog -lm
+g++ -Wall spectrumavg.cpp -o spectrumavg -lm
+gcc -Wall scale_to_one.c -o scale_to_one -lm
+gcc -Wall hard_work.c -o hard_work -lm
+gcc -Wall cut_spectra.c -o cut_spectra -lm
+gcc -Wall cut_exp_spectrum.c -o cut_exp_spectrum -lm
+```
+
 ## Usage
 
 * GUI can be started from terminal using command:

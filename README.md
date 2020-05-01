@@ -10,31 +10,31 @@ Spectrum Analyzer calculates a precentage of the chosen types of lights, e.g. LE
 An experimental spectrum must have following form:
 
 ```
-	# lines starting with '#' are ignored
-	# they are used to describe spectrum (date of measurement, town, ...)
-	# the data must be sorted by size
-	# [wavelength]	[intensity]
-	300.0	0.2569
-	301.0	0.3654
-	302.0	1.2569
-		  .
-		  .
-		  .
-	799.0	0.0268
-	800.0	0.3265
+# lines starting with '#' are ignored
+# they are used to describe spectrum (date of measurement, town, ...)
+# the data must be sorted by size
+# [wavelength]	[intensity]
+300.0	0.2569
+301.0	0.3654
+302.0	1.2569
+	  .
+	  .
+	  .
+799.0	0.0268
+800.0	0.3265
 ```
 
 The database of lights is stored in the folder `kernel/spectra_original`.
 You can add another light too. In order to use it in Spectrum Analyzer, a name of light (i. e. name of file without extension) must be added into the List of Lights. There are four lists in the folder `/SpectrumAnalyzer_v1.0/kernel/input_data`: Generic, All, One and Custom. You can add the name of light into one of them and add 0 or 1 after it:
 
 ```
-	CFL_Compact_Fluorescent_Lamp_GENERIC	0
-	CMH_Ceramic_Metal_Halide_GENERIC	0
-		.
-		.
-		.
-	MH_Metal_Halide_GENERIC	0
-	NEW_LIGHT	1
+CFL_Compact_Fluorescent_Lamp_GENERIC	0
+CMH_Ceramic_Metal_Halide_GENERIC	0
+	.
+	.
+	.
+MH_Metal_Halide_GENERIC	0
+NEW_LIGHT	1
 ```
 
 It is recommended to put new lights into the Custom Database.

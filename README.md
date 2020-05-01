@@ -43,14 +43,6 @@ The results of calculation are stored in `kernel/results`. There are following f
 
 GUI was written in JAVA. See section RUN to start and use GUI.
 
-## Requirements
-
-* Java JRE 8 and higher
-* C compiler
-* C++ compiler
-* Gnuplot (tested on 5.2)
-* Eye of Gnome (to view plots in Linux)
-
 ## Usage
 
 * GUI can be started from terminal using command:
@@ -64,3 +56,11 @@ GUI was written in JAVA. See section RUN to start and use GUI.
 * The results (percentage, standard deviaton) are loaded automatically.
 * Click `Plot INT` and `Plot NON` to view plots with compared experimental and calculated data (before and after integration).
 * Click `Find Optimum` to start calculation for each combination of selected lights and set parameters. After calculation is finished, the optimal configuration along with results is automatically loaded. Use this button very carefully. The calculations may take a lot of time.
+
+## Requirements
+
+* Java JRE 8 and higher
+* C compiler
+* C++ compiler
+* Gnuplot (tested on 5.2)
+* Eye of Gnome (to view plots in Linux)

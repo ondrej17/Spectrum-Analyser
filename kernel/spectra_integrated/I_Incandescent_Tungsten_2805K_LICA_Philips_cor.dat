@@ -1,0 +1,43 @@
+#LICA Lamps Spectra Database
+#Website 1: https://guaix.fis.ucm.es/lamps_spectra
+#Website 2: http://carlostapia.es/lamparas/lamps.html
+#Latest update: 2017/02/07
+#Tester: Carlos Eugenio Tapia Ayuga
+#Correct for Electrical Dark: Yes (JAZA2310)
+#Correct for Detector Non-linearity: Yes (JAZA2310)
+#Correct for Flux: Yes
+#Start wavelength (nm): 300
+#End wavelength (nm): 900
+#Steps (nm):	1
+#Locus: D65 sRGB Gamma 1 CIE1931
+#XYZ coordinates: 0.4022	0.3634	0.1264
+#xyY coordinates: 0.4508	0.4074	0.3634
+#sRGB: 174	76	21
+#CCT Lindbloom (K):	2805
+#CCT McCamy (K):	2806
+#CCT Hernández-Andrés (K):	2734
+#Melatonin: 0.363
+#Chlorophyll a: 3.288
+#Chlorophyll b: 0.582
+#Beta Carotene: 3.274
+#Manufacturer: Philips
+#Luminance manufacturer: Unknown
+#Other data: 40W
+#Begin Processed Spectral Data
+W	S
+450	0.041644225
+470	0.105602025
+490	0.13351105
+510	0.1648342
+530	0.1980972
+550	0.234084
+570	0.2725322
+590	0.3107444
+610	0.34933485
+630	0.39112335
+650	0.42623545
+670	0.462102675
+690	0.498313225
+710	0.540107075
+730	0.573665325
+750	0.3110808

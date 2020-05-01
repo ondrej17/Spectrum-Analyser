@@ -1,0 +1,6 @@
+FL_Fluorescent_Lamp_GENERIC	1
+H_Halogen_2911K_LICA_Philips_cor	0
+HPS_High_Pressure_Sodium_GENERIC	1
+LED_1833K-2877K_GENERIC	0
+LED_streetlamp_GENERIC	1
+LED_streetlamp_GENERIC	0

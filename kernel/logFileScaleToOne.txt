@@ -1,0 +1,472 @@
+spectra_cut/MH_Metal_Halide_5494K_SFH_Lidl_cor.txt
+Integral: 14.356554
+spectra_used/MH_Metal_Halide_5494K_SFH_Lidl_cor.txt
+
+spectra_cut/LED_2989K_LICA_Lexman_3000K_cor.txt
+Integral: 134.801506
+spectra_used/LED_2989K_LICA_Lexman_3000K_cor.txt
+
+spectra_cut/LED_3836K_Lexman_4000K_cor.txt
+Integral: 144.613826
+spectra_used/LED_3836K_Lexman_4000K_cor.txt
+
+spectra_cut/MV_Mercury_Vapor_4495K_Madrid_F_Teleco_cor.txt
+Integral: 8.435662
+spectra_used/MV_Mercury_Vapor_4495K_Madrid_F_Teleco_cor.txt
+
+spectra_cut/N_Neon_Blue_LICA_cor.txt
+Integral: 3.679049
+spectra_used/N_Neon_Blue_LICA_cor.txt
+
+spectra_cut/CFL_Compact_Fluorescent_Lamp_2634K_LICA_cor.txt
+Integral: 14.401961
+spectra_used/CFL_Compact_Fluorescent_Lamp_2634K_LICA_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_2378K_SFH_1_Mayo_cor.txt
+Integral: 50.987090
+spectra_used/CMH_Ceramic_Metal_Halide_2378K_SFH_1_Mayo_cor.txt
+
+spectra_cut/LED_5945K_Lexman_6500K_cor.txt
+Integral: 78.096673
+spectra_used/LED_5945K_Lexman_6500K_cor.txt
+
+spectra_cut/MH_Metal_Halide_3436K_SFH_P_General_cor.txt
+Integral: 21.090029
+spectra_used/MH_Metal_Halide_3436K_SFH_P_General_cor.txt
+
+spectra_cut/LED_23223K_LICA_cor.txt
+Integral: 53.007275
+spectra_used/LED_23223K_LICA_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_2620K_SFH_Panos_L_cor.txt
+Integral: 53.182121
+spectra_used/CMH_Ceramic_Metal_Halide_2620K_SFH_Panos_L_cor.txt
+
+spectra_cut/I_Incandescent_Carbon_2021K_LICA_Amberline_cor.txt
+Integral: 51.899500
+spectra_used/I_Incandescent_Carbon_2021K_LICA_Amberline_cor.txt
+
+spectra_cut/LED_3140K_Madrid_Espoz_Mina_Philips_cor.txt
+Integral: 128.251387
+spectra_used/LED_3140K_Madrid_Espoz_Mina_Philips_cor.txt
+
+spectra_cut/vienna_2018.txt
+Integral: 57.347400
+spectra_used/vienna_2018.txt
+
+spectra_cut/LED_3114K_Madrid_LICA_Philips_onaxis_cor.txt
+Integral: 126.907945
+spectra_used/LED_3114K_Madrid_LICA_Philips_onaxis_cor.txt
+
+spectra_cut/LED_23223K-25000K_GENERIC.txt
+Integral: 51.342727
+spectra_used/LED_23223K-25000K_GENERIC.txt
+
+spectra_cut/CFL_Compact_Fluorescent_Lamp_5782K_LICA_cor.txt
+Integral: 19.411640
+spectra_used/CFL_Compact_Fluorescent_Lamp_5782K_LICA_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_2038K_Riba_Roja_Plaza_Ajuntament_cor.txt
+Integral: 20.249588
+spectra_used/HPS_High_Pressure_Sodium_2038K_Riba_Roja_Plaza_Ajuntament_cor.txt
+
+spectra_cut/MH_Metal_Halide_4280K_SFH_Ferial_cor.txt
+Integral: 29.060448
+spectra_used/MH_Metal_Halide_4280K_SFH_Ferial_cor.txt
+
+spectra_cut/MH_Metal_Halide_4813K_SFH_Alix_cor.txt
+Integral: 37.652502
+spectra_used/MH_Metal_Halide_4813K_SFH_Alix_cor.txt
+
+spectra_cut/LED_streetlamp_2973K_75deg_of_axis_LICA_Philips_cor.txt
+Integral: 126.969534
+spectra_used/LED_streetlamp_2973K_75deg_of_axis_LICA_Philips_cor.txt
+
+spectra_cut/CFL_Compact_Fluorescent_Lamp_GENERIC.txt
+Integral: 16.170915
+spectra_used/CFL_Compact_Fluorescent_Lamp_GENERIC.txt
+
+spectra_cut/LED_PC_Amber_1766K_La_Palma_Wave_Tecnica_Canaria_cor.txt
+Integral: 87.374513
+spectra_used/LED_PC_Amber_1766K_La_Palma_Wave_Tecnica_Canaria_cor.txt
+
+spectra_cut/LED_Color_468_cor.txt
+Integral: 11.784601
+spectra_used/LED_Color_468_cor.txt
+
+spectra_cut/LED_4606K_LICA_Alverlamp_Projector_4000K_cor.txt
+Integral: 81.136653
+spectra_used/LED_4606K_LICA_Alverlamp_Projector_4000K_cor.txt
+
+spectra_cut/LED_streetlamp_GENERIC.txt
+Integral: 126.547857
+spectra_used/LED_streetlamp_GENERIC.txt
+
+spectra_cut/MH_Metal_Halide_5582K_SFH_Cross_Lidl_cor.txt
+Integral: 15.989017
+spectra_used/MH_Metal_Halide_5582K_SFH_Cross_Lidl_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_1869K_Riba_Roja_cor.txt
+Integral: 21.900118
+spectra_used/HPS_High_Pressure_Sodium_1869K_Riba_Roja_cor.txt
+
+spectra_cut/LED_2695K_LICA_Radium_RL-D_2700K_cor.txt
+Integral: 142.640612
+spectra_used/LED_2695K_LICA_Radium_RL-D_2700K_cor.txt
+
+spectra_cut/I_Incandescent_Tungsten_2805K_LICA_Philips_cor.txt
+Integral: 110.178030
+spectra_used/I_Incandescent_Tungsten_2805K_LICA_Philips_cor.txt
+
+spectra_cut/LED_7676K_LICA_cor.txt
+Integral: 46.747757
+spectra_used/LED_7676K_LICA_cor.txt
+
+spectra_cut/N_Neon_Green_6801K_LICA_cor.txt
+Integral: 19.625645
+spectra_used/N_Neon_Green_6801K_LICA_cor.txt
+
+spectra_cut/LED_6801K_Madrid_F_Farmacia_cor.txt
+Integral: 60.092799
+spectra_used/LED_6801K_Madrid_F_Farmacia_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_1732K_SFH_Toledo_cor.txt
+Integral: 21.425125
+spectra_used/HPS_High_Pressure_Sodium_1732K_SFH_Toledo_cor.txt
+
+spectra_cut/LED_4225K_LICA_cor.txt
+Integral: 92.196044
+spectra_used/LED_4225K_LICA_cor.txt
+
+spectra_cut/LED_2877K_LICA_Prilux_3000K_cor.txt
+Integral: 128.736106
+spectra_used/LED_2877K_LICA_Prilux_3000K_cor.txt
+
+spectra_cut/LED_2810K_LICA_Vel_Light_2700K_cor.txt
+Integral: 128.125887
+spectra_used/LED_2810K_LICA_Vel_Light_2700K_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_1895K_Ager_cor.txt
+Integral: 23.556785
+spectra_used/HPS_High_Pressure_Sodium_1895K_Ager_cor.txt
+
+spectra_cut/LED_2771K_LICA_Philips_2700K_cor.txt
+Integral: 131.042758
+spectra_used/LED_2771K_LICA_Philips_2700K_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_6545K_SFH_P_General_cor.txt
+Integral: 49.798263
+spectra_used/CMH_Ceramic_Metal_Halide_6545K_SFH_P_General_cor.txt
+
+spectra_cut/MH_Metal_Halide_4044K_SFH_C_Londres__cor.txt
+Integral: 41.240415
+spectra_used/MH_Metal_Halide_4044K_SFH_C_Londres__cor.txt
+
+spectra_cut/LED_Warm_2159K_LICA_Ignialight_cor.txt
+Integral: 134.986770
+spectra_used/LED_Warm_2159K_LICA_Ignialight_cor.txt
+
+spectra_cut/MH_Metal_Halide_5772K_F_Fisicas_cor.txt
+Integral: 14.630505
+spectra_used/MH_Metal_Halide_5772K_F_Fisicas_cor.txt
+
+spectra_cut/F_Flame_lighter_2165K_corr.txt
+Integral: 51.486115
+spectra_used/F_Flame_lighter_2165K_corr.txt
+
+spectra_cut/LED_2790K_Riba_Roja_Plaza_de_la_Torre_cor.txt
+Integral: 145.345188
+spectra_used/LED_2790K_Riba_Roja_Plaza_de_la_Torre_cor.txt
+
+spectra_cut/LED_Pure_Amber_1877K_cor.txt
+Integral: 46.574237
+spectra_used/LED_Pure_Amber_1877K_cor.txt
+
+spectra_cut/LED_2618K_LICA_Ryet_Ikea_2700K_cor.txt
+Integral: 129.309707
+spectra_used/LED_2618K_LICA_Ryet_Ikea_2700K_cor.txt
+
+spectra_cut/MH_Metal_Halide_5040K_SFH_Plaza_cor.txt
+Integral: 21.416267
+spectra_used/MH_Metal_Halide_5040K_SFH_Plaza_cor.txt
+
+spectra_cut/LED_PC_Amber_2071K_Philips_Filtered_cor.txt
+Integral: 98.593426
+spectra_used/LED_PC_Amber_2071K_Philips_Filtered_cor.txt
+
+spectra_cut/LED_7043K_LICA_Deco_LED_7000K_cor.txt
+Integral: 60.643428
+spectra_used/LED_7043K_LICA_Deco_LED_7000K_cor.txt
+
+spectra_cut/MH_Metal_Halide_3723K_SFH_Stadium_cor.txt
+Integral: 19.542147
+spectra_used/MH_Metal_Halide_3723K_SFH_Stadium_cor.txt
+
+spectra_cut/LED_Color_634_traffic_lights_cor.txt
+Integral: 27.310009
+spectra_used/LED_Color_634_traffic_lights_cor.txt
+
+spectra_cut/LED_2870K_LICA_cor.txt
+Integral: 111.694165
+spectra_used/LED_2870K_LICA_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_2691K_SFH_Police_cor.txt
+Integral: 69.223664
+spectra_used/CMH_Ceramic_Metal_Halide_2691K_SFH_Police_cor.txt
+
+spectra_cut/H_Halogen_2911K_LICA_Philips_cor.txt
+Integral: 148.897086
+spectra_used/H_Halogen_2911K_LICA_Philips_cor.txt
+
+spectra_cut/LED_3033K_Almeria_Plaza_3_Abril_cor.txt
+Integral: 125.459438
+spectra_used/LED_3033K_Almeria_Plaza_3_Abril_cor.txt
+
+spectra_cut/LED_Color_520_Pharmacies_cor.txt
+Integral: 44.359712
+spectra_used/LED_Color_520_Pharmacies_cor.txt
+
+spectra_cut/A_Animal_Firefly_Lampirydae_Ager_cor.txt
+Integral: 75.016015
+spectra_used/A_Animal_Firefly_Lampirydae_Ager_cor.txt
+
+spectra_cut/FL_Fluorescent_Lamp_GENERIC.txt
+Integral: 22.172418
+spectra_used/FL_Fluorescent_Lamp_GENERIC.txt
+
+spectra_cut/LED_1833K_LICA_Wetalux_Ambar_1800K_cor.txt
+Integral: 91.992104
+spectra_used/LED_1833K_LICA_Wetalux_Ambar_1800K_cor.txt
+
+spectra_cut/LED_Color_596_2_cor.txt
+Integral: 28.020949
+spectra_used/LED_Color_596_2_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_2586K_SFH_Panos_H_cor.txt
+Integral: 47.735620
+spectra_used/CMH_Ceramic_Metal_Halide_2586K_SFH_Panos_H_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_2255K_Paraninfo_UCM_cor.txt
+Integral: 32.319729
+spectra_used/HPS_High_Pressure_Sodium_2255K_Paraninfo_UCM_cor.txt
+
+spectra_cut/Th_Thorium_Argon_Photron_cor.txt
+Integral: 4.280556
+spectra_used/Th_Thorium_Argon_Photron_cor.txt
+
+spectra_cut/MH_Metal_Halide_GENERIC.txt
+Integral: 29.794927
+spectra_used/MH_Metal_Halide_GENERIC.txt
+
+spectra_cut/LED_2701K_LICA_Attralux_2700K_cor.txt
+Integral: 129.087569
+spectra_used/LED_2701K_LICA_Attralux_2700K_cor.txt
+
+spectra_cut/LED_2958K-3969K_GENERIC.txt
+Integral: 128.628395
+spectra_used/LED_2958K-3969K_GENERIC.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_GENERIC.txt
+Integral: 23.511417
+spectra_used/HPS_High_Pressure_Sodium_GENERIC.txt
+
+spectra_cut/LED_2082K_LICA_Electric_Vintage_2200K_cor.txt
+Integral: 131.990632
+spectra_used/LED_2082K_LICA_Electric_Vintage_2200K_cor.txt
+
+spectra_cut/LED_2140K_LICA_IKEA_2200K_cor.txt
+Integral: 123.887655
+spectra_used/LED_2140K_LICA_IKEA_2200K_cor.txt
+
+spectra_cut/M_Pen_Ray_Mercury_24382K_LICA_Oriel_cor.txt
+Integral: 1.457392
+spectra_used/M_Pen_Ray_Mercury_24382K_LICA_Oriel_cor.txt
+
+spectra_cut/LED_9089K_Madrid_Moratalaz_cor.txt
+Integral: 51.095567
+spectra_used/LED_9089K_Madrid_Moratalaz_cor.txt
+
+spectra_cut/MH_Metal_Halide_6075K_Madrid_Picasso_Tower_cor.txt
+Integral: 93.210219
+spectra_used/MH_Metal_Halide_6075K_Madrid_Picasso_Tower_cor.txt
+
+spectra_cut/LED_2796K_LICA_LAES_2700K_cor.txt
+Integral: 133.980288
+spectra_used/LED_2796K_LICA_LAES_2700K_cor.txt
+
+spectra_cut/LPS_Low_Pressure_Sodium_1701K_LICA_cor.txt
+Integral: 2.763279
+spectra_used/LPS_Low_Pressure_Sodium_1701K_LICA_cor.txt
+
+spectra_cut/LED_PC_Amber_Ager_Ignialight_cor.txt
+Integral: 104.324634
+spectra_used/LED_PC_Amber_Ager_Ignialight_cor.txt
+
+spectra_cut/I_Incandescent_Tungsten_LICA_Leuci_Special_Red_cor.txt
+Integral: 28.187371
+spectra_used/I_Incandescent_Tungsten_LICA_Leuci_Special_Red_cor.txt
+
+spectra_cut/MV_Mercury_Vapor_4075K_Riba_Roja_cor.txt
+Integral: 8.608254
+spectra_used/MV_Mercury_Vapor_4075K_Riba_Roja_cor.txt
+
+spectra_cut/LED_1833K-2877K_GENERIC.txt
+Integral: 127.309179
+spectra_used/LED_1833K-2877K_GENERIC.txt
+
+spectra_cut/MH_Metal_Halide_4884K_SFH_Eugenia_cor.txt
+Integral: 22.073179
+spectra_used/MH_Metal_Halide_4884K_SFH_Eugenia_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_GENERIC.txt
+Integral: 55.218865
+spectra_used/CMH_Ceramic_Metal_Halide_GENERIC.txt
+
+spectra_cut/MV_Mercury_Vapor_4717K_Navalmorales_cor.txt
+Integral: 7.841457
+spectra_used/MV_Mercury_Vapor_4717K_Navalmorales_cor.txt
+
+spectra_cut/LED_25000K_LICA_cor.txt
+Integral: 49.678179
+spectra_used/LED_25000K_LICA_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_1920K_SFH_Alix_cor.txt
+Integral: 19.641700
+spectra_used/HPS_High_Pressure_Sodium_1920K_SFH_Alix_cor.txt
+
+spectra_cut/LED_Color_467_cor.txt
+Integral: 8.704069
+spectra_used/LED_Color_467_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_2829K_Almeria_Calle_Gregorio_Maranon_cor.txt
+Integral: 56.380151
+spectra_used/CMH_Ceramic_Metal_Halide_2829K_Almeria_Calle_Gregorio_Maranon_cor.txt
+
+spectra_cut/LED_2961K_Madrid_Trav_Andres_Mellado_Philips_cor.txt
+Integral: 127.730922
+spectra_used/LED_2961K_Madrid_Trav_Andres_Mellado_Philips_cor.txt
+
+spectra_cut/LED_6442K_Almeria_Adif_Parking_cor.txt
+Integral: 61.845154
+spectra_used/LED_6442K_Almeria_Adif_Parking_cor.txt
+
+spectra_cut/LED_Color_693_cor.txt
+Integral: 36.273912
+spectra_used/LED_Color_693_cor.txt
+
+spectra_cut/LED_PC_Amber_1901K_Wave_Tecnica_Canaria_cor.txt
+Integral: 93.701387
+spectra_used/LED_PC_Amber_1901K_Wave_Tecnica_Canaria_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_1819K_Riba_Roja_Plaza_Ajuntament_cor.txt
+Integral: 25.329917
+spectra_used/HPS_High_Pressure_Sodium_1819K_Riba_Roja_Plaza_Ajuntament_cor.txt
+
+spectra_cut/MH_Metal_Halide_5506K_Almeria_Calle_Ronda_cor.txt
+Integral: 38.877396
+spectra_used/MH_Metal_Halide_5506K_Almeria_Calle_Ronda_cor.txt
+
+spectra_cut/CFL_Compact_Fluorescent_Lamp_2478K_LICA_Westinghouse_cor.txt
+Integral: 14.607198
+spectra_used/CFL_Compact_Fluorescent_Lamp_2478K_LICA_Westinghouse_cor.txt
+
+spectra_cut/LED_2584K_Riba_Roja_cor.txt
+Integral: 122.787301
+spectra_used/LED_2584K_Riba_Roja_cor.txt
+
+spectra_cut/LED_4577K_LICA_cor.txt
+Integral: 102.599914
+spectra_used/LED_4577K_LICA_cor.txt
+
+spectra_cut/LED_3045K_Madrid_Moncloa_Philips_cor.txt
+Integral: 127.040140
+spectra_used/LED_3045K_Madrid_Moncloa_Philips_cor.txt
+
+spectra_cut/LED_3969K_Villarrubia_Ojos_cor.txt
+Integral: 120.242696
+spectra_used/LED_3969K_Villarrubia_Ojos_cor.txt
+
+spectra_cut/LED_6770K_Madrid_Faro_Moncloa_cor.txt
+Integral: 59.031185
+spectra_used/LED_6770K_Madrid_Faro_Moncloa_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_2005K_F_Fisicas_cor.txt
+Integral: 20.853867
+spectra_used/HPS_High_Pressure_Sodium_2005K_F_Fisicas_cor.txt
+
+spectra_cut/LED_Color_501_traffic_lights_cor.txt
+Integral: 34.855972
+spectra_used/LED_Color_501_traffic_lights_cor.txt
+
+spectra_cut/LED_streetlamp_3107K_on_axis_LICA_Philips_cor.txt
+Integral: 126.126180
+spectra_used/LED_streetlamp_3107K_on_axis_LICA_Philips_cor.txt
+
+spectra_cut/N_Neon_Pink_1000K_LICA_cor.txt
+Integral: 11.604861
+spectra_used/N_Neon_Pink_1000K_LICA_cor.txt
+
+spectra_cut/LED_4225K-9089K_GENERIC.txt
+Integral: 69.348518
+spectra_used/LED_4225K-9089K_GENERIC.txt
+
+spectra_cut/LED_2977K_Madrid_LICA_Philips_75deg_offaxis_cor.txt
+Integral: 126.209367
+spectra_used/LED_2977K_Madrid_LICA_Philips_75deg_offaxis_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_2832K_SFH_Eugenia_cor.txt
+Integral: 64.802892
+spectra_used/CMH_Ceramic_Metal_Halide_2832K_SFH_Eugenia_cor.txt
+
+spectra_cut/MH_Metal_Halide_5106K_Madrid_Paraninfo_UCM_cor.txt
+Integral: 18.195381
+spectra_used/MH_Metal_Halide_5106K_Madrid_Paraninfo_UCM_cor.txt
+
+spectra_cut/LED_Color_596_cor.txt
+Integral: 19.213409
+spectra_used/LED_Color_596_cor.txt
+
+spectra_cut/vienna_2012.txt
+Integral: 64.871258
+spectra_used/vienna_2012.txt
+
+spectra_cut/Th_Thorium_Neon_Photron_cor.txt
+Integral: 15.168090
+spectra_used/Th_Thorium_Neon_Photron_cor.txt
+
+spectra_cut/LED_2248K_LICA_MM_Electric_2200K_cor.txt
+Integral: 138.217209
+spectra_used/LED_2248K_LICA_MM_Electric_2200K_cor.txt
+
+spectra_cut/CMH_Ceramic_Metal_Halide_5381K_SFH_Saramago_cor.txt
+Integral: 49.641117
+spectra_used/CMH_Ceramic_Metal_Halide_5381K_SFH_Saramago_cor.txt
+
+spectra_cut/CFL_Compact_Fluorescent_Lamp_2776K_LICA_Philips_Master_PL_2700K_cor.txt
+Integral: 16.262862
+spectra_used/CFL_Compact_Fluorescent_Lamp_2776K_LICA_Philips_Master_PL_2700K_cor.txt
+
+spectra_cut/N_Neon_Red_Pen_Ray_1000K_LICA_Oriel_cor.txt
+Integral: 12.972641
+spectra_used/N_Neon_Red_Pen_Ray_1000K_LICA_Oriel_cor.txt
+
+spectra_cut/FL_Fluorescent_Lamp_5576K_F_Farmacia_cor.txt
+Integral: 24.442205
+spectra_used/FL_Fluorescent_Lamp_5576K_F_Farmacia_cor.txt
+
+spectra_cut/FL_Fluorescent_Lamp_3952K_SFH_Huerta_cor.txt
+Integral: 19.902631
+spectra_used/FL_Fluorescent_Lamp_3952K_SFH_Huerta_cor.txt
+
+spectra_cut/LED_2425K_Riba_Roja_cor.txt
+Integral: 120.800507
+spectra_used/LED_2425K_Riba_Roja_cor.txt
+
+spectra_cut/LED_2958K_Toledo_Philips_cor.txt
+Integral: 125.026722
+spectra_used/LED_2958K_Toledo_Philips_cor.txt
+
+spectra_cut/HPS_High_Pressure_Sodium_2176K_Riba_Roja_cor.txt
+Integral: 26.325927
+spectra_used/HPS_High_Pressure_Sodium_2176K_Riba_Roja_cor.txt
+

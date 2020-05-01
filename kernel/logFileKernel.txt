@@ -1,0 +1,9 @@
+KERNEL:
+Database:	list_of_lights_generic.txt
+Determinant:	0.544735128353116
+Lambda Min:	475
+Lambda Max:	725
+Delta Lambda:	20.0
+Std. Deviation:	0.02100891
+Akaike Coef:	-98.15863863
+*****************************************

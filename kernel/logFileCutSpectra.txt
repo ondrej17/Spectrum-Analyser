@@ -1,0 +1,3 @@
+/home/ondrej/Coding/projects/project_smog/SMOG_v3.0/kernel/input_data/vienna_2012.txt
+/home/ondrej/Coding/projects/project_smog/SMOG_v3.0/kernel/spectra_cut/vienna_2012.txt
+

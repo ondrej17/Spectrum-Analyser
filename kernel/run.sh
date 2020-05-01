@@ -1,0 +1,1 @@
+./smog 475.0 725.0 20.0 list_of_lights_generic.txt vienna_2012.txt

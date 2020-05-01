@@ -1,0 +1,45 @@
+#LICA Lamps Spectra Database
+#Website 1: https://guaix.fis.ucm.es/lamps_spectra
+#Website 2: http://carlostapia.es/lamparas/lamps.html
+#Latest update: 2017/12/15
+#Tester: Carlos Eugenio Tapia Ayuga
+#Correct for Electrical Dark: Yes (JAZA2310)
+#Correct for Detector Non-linearity: Yes (JAZA2310)
+#Correct for Flux: Yes
+#Start wavelength (nm): 300
+#End wavelength (nm): 900
+#Steps (nm):	1
+#Locus: D65 sRGB Gamma 1 CIE1931
+#XYZ coordinates: 0.0281	0.0208	0.0001
+#xyY coordinates: 0.5735	0.4247	0.0208
+#sRGB: 15	3	0
+#CCT Lindbloom (K):	1701
+#CCT McCamy (K):	1761
+#CCT Hernández-Andrés (K):	1298
+#Melatonin: 0.020
+#Chlorophyll a: 0.012
+#Chlorophyll b: 0.207
+#Beta Carotene: 0.013
+#Manufacturer: Unknown
+#Luminance manufacturer: Unknown
+#Other data:
+#Begin Processed Spectral Data
+W	S
+475	0.0044016
+490	0.0018321
+505	0.0027735
+520	0.000974333333333
+535	0.000464866666667
+550	0.0012174
+565	0.0349854666667
+580	0.0749279
+595	6.49829296667
+610	0.0155306666667
+625	0.0054374
+640	0.00241568333333
+655	0.00227998333333
+670	0
+685	0.00217473333333
+700	0.00548926666667
+715	0.0134688
+730	0

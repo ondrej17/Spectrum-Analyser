@@ -4,6 +4,8 @@ Developed by **Ondrej Bily**, Faculty of Mathematics, Physics and Informatics, C
 
 Spectrum Analyser software was developed for obtaining the emission spectra from the measured spectrum (e. g. of a city). The main computational program was written in `C`, encapsulated in GUI in `Java`. Read in the article "Emission spectra of light-pollution sources determined from the light-scattering spectrometry of the night sky" how the software helps to identify the night sky pollution sources.
 
+Link to article: https://academic.oup.com/mnras/article-abstract/491/4/5586/5686816?redirectedFrom=fulltex#
+
 ## About
 
 Spectrum Analyzer calculates a precentage of the chosen types of lights, e.g. LED, HPS, FL. 
